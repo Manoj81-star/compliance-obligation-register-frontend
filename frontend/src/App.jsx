@@ -1,6 +1,4 @@
 
-
-
   Setup (Day 1):
     npm create vite@latest frontend -- --template react
     cd frontend
