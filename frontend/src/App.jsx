@@ -1,6 +1,5 @@
 
-  Day 4  → pagination, sort column headers
-  Day 5  → LoginPage, AuthContext, ProtectedRoute
+ 
   Day 6  → Dashboard (KPI cards + BarChart)
   Day 7  → ObligationDetail (badges, Edit/Delete, AI card)
   Day 8  → AI Panel ('Ask AI' button, spinner, retry)
