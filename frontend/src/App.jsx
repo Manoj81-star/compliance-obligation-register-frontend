@@ -1,7 +1,3 @@
-    cd frontend
-    npm install axios recharts react-router-dom date-fns
-    npm install -D tailwindcss postcss autoprefixer
-    npx tailwindcss init -p
 
   Then replace src/App.jsx with this file.
 
