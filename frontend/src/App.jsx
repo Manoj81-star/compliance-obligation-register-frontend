@@ -1,6 +1,5 @@
 
- 
-  Day 7  → ObligationDetail (badges, Edit/Delete, AI card)
+
   Day 8  → AI Panel ('Ask AI' button, spinner, retry)
   Day 9  → SearchFilterBar (debounce, status dropdown, date range, URL params)
   Day 10 → CSV export, EventSource streaming report, Analytics tab
