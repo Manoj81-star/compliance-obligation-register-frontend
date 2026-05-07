@@ -1,6 +1,4 @@
 
-  Day 12 → UX polish (skeletons everywhere, Error Boundary, empty illustrations)
-  Day 13 → Responsive (375 / 768 / 1280 breakpoints via Tailwind)
   Day 14 → Brand (#1B4F8A, spacing, 44 px touch targets)
   Day 15–20 → Demo-ready state
 */
