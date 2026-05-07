@@ -1,6 +1,4 @@
-
-  Setup (Day 1):
-    npm create vite@latest frontend -- --template react
+ite@latest frontend -- --template react
     cd frontend
     npm install axios recharts react-router-dom date-fns
     npm install -D tailwindcss postcss autoprefixer
