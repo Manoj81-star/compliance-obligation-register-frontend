@@ -1,7 +1,4 @@
 
-  Day 9  → SearchFilterBar (debounce, status dropdown, date range, URL params)
-  Day 10 → CSV export, EventSource streaming report, Analytics tab
-  Day 11 → Analytics (BarChart, LineChart, PieChart, period selector)
   Day 12 → UX polish (skeletons everywhere, Error Boundary, empty illustrations)
   Day 13 → Responsive (375 / 768 / 1280 breakpoints via Tailwind)
   Day 14 → Brand (#1B4F8A, spacing, 44 px touch targets)
