@@ -1,7 +1,4 @@
-.
 
-  .env (project root):
-    VITE_API_URL=http://localhost:8080
 
   Day 2  → ObligationList   (table, skeleton, empty state)
   Day 3  → ObligationForm   (create / edit with validation)
