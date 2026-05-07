@@ -1,5 +1,4 @@
-
-  Then replace src/App.jsx with this file.
+.
 
   .env (project root):
     VITE_API_URL=http://localhost:8080
