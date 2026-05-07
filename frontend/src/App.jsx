@@ -1,5 +1,4 @@
 
-  Day 14 → Brand (#1B4F8A, spacing, 44 px touch targets)
   Day 15–20 → Demo-ready state
 */
 
