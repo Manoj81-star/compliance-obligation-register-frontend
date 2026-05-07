@@ -1,6 +1,4 @@
 
-
-  Day 8  → AI Panel ('Ask AI' button, spinner, retry)
   Day 9  → SearchFilterBar (debounce, status dropdown, date range, URL params)
   Day 10 → CSV export, EventSource streaming report, Analytics tab
   Day 11 → Analytics (BarChart, LineChart, PieChart, period selector)
