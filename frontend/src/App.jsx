@@ -1,7 +1,4 @@
 
-
-  Day 2  → ObligationList   (table, skeleton, empty state)
-  Day 3  → ObligationForm   (create / edit with validation)
   Day 4  → pagination, sort column headers
   Day 5  → LoginPage, AuthContext, ProtectedRoute
   Day 6  → Dashboard (KPI cards + BarChart)
